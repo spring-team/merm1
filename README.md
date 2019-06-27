@@ -1,5 +1,5 @@
 # merm1
-my new project
+my new project for New Hampshire
 
 Based on seed project `spring-team:spring-rest-seed`
 
